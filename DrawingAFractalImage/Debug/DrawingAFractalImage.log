@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ZoomList.cpp
+  FractalCreator.cpp
+c:\cppprojects\drawingafractalimage\drawingafractalimage\fractalcreator.cpp(82): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\cppprojects\drawingafractalimage\drawingafractalimage\fractalcreator.cpp(83): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\cppprojects\drawingafractalimage\drawingafractalimage\fractalcreator.cpp(84): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Generating Code...
+  DrawingAFractalImage.vcxproj -> C:\CPPProjects\DrawingAFractalImage\Debug\DrawingAFractalImage.exe
